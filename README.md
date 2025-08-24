@@ -9,7 +9,8 @@ Paged Attention — a clever memory optimization that helps big LLMs run faster 
 ---
 
 ## Traditional Attention vs Paged Attention Visualizations:
-![PagedAttention Demo](./assets/Animation_5.gif)
+
+<img src="./assets/Animation_5.gif" alt="PagedAttention Demo" width="1200"/>
 
 ## 🔥 **The Problem That Costs Millions**
 
